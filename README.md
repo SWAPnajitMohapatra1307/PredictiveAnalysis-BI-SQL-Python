@@ -9,7 +9,7 @@ By cleansing a raw dataset of over **96,000 records** and training a tuned **Ran
 
 The final deliverables include not just the predictive model but also a comprehensive **Business Report**,**Powerpoint Presentaion** and an interactive **Power BI Dashboard** designed for executive-level decision-making.
 
-[Screen Recording 2025-10-02 130233](https://github.com/user-attachments/assets/f4552239-ab47-4a04-a925-66c2670ebbf1)
+![Image](https://github.com/user-attachments/assets/4051d389-fabe-4d04-bb89-1cb6bf71b0e7)
 
 ## 📊 Live Power BI Dashboard & Business Report
 
