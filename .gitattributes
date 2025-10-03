@@ -1,0 +1,4 @@
+Data/ev_sales.db filter=lfs diff=lfs merge=lfs -text
+Data/predicted_ev_sales_2025_2035.csv filter=lfs diff=lfs merge=lfs -text
+Data/ev_sales_and_predicted_sales(compressed).zip filter=lfs diff=lfs merge=lfs -text
+Data/ev_sales_and_predicted_sales.zip filter=lfs diff=lfs merge=lfs -text
