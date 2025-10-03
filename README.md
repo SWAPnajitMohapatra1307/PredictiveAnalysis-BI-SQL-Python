@@ -9,14 +9,17 @@ By cleansing a raw dataset of over **96,000 records** and training a tuned **Ran
 
 The final deliverables include not just the predictive model but also a comprehensive **Business Report**,**Powerpoint Presentaion** and an interactive **Power BI Dashboard** designed for executive-level decision-making.
 
+[Screen Recording 2025-10-02 130233](https://github.com/user-attachments/assets/f4552239-ab47-4a04-a925-66c2670ebbf1)
+
 ## 📊 Live Power BI Dashboard & Business Report
 
 **Interact with the full analysis and strategic recommendations:**
 
-* **[View the Live Power BI Dashboard]** `[Link to your live Power BI Dashboard]`
-* **[Read the Full Business Report]** `[Link to your .docx or .pdf business report]`
+* **[View the Live Power BI Dashboard]** https://github.com/SWAPnajitMohapatra1307/PredictiveAnalysis-BI-SQL-Python/blob/main/Sales_Projection(2025-2035).pbix
+* **[Read the Full Business Report]** [Buisness Report Regarding EV sales Across India in next 10 years.pdf](https://github.com/userattachments/files/22685340/Buisness.Report.Regarding.EV.sales.Across.India.in.next.10.years.pdf)
 
-**[View the Powerpoint presentaion regarding Sales trend in Goa]** `[Link to your PPt]`
+**[View the Powerpoint presentaion regarding Sales trend in Goa]**[Seasonal Trends of EV in Goa.pptx](https://github.com/user-attachments/files/22685333/Seasonal.Trends.of.EV.in.Goa.pptx)
+
 
 ## 🎯 The Business Problem: A High-Risk Expansion
 An EV manufacturer is planning expansion in Indian Market but faces significant uncertainty. The market is a complex due to its diverse regional demands, consumer preferences, and seasonal trends. The core business challenge is to move beyond historical analysis and develop a **forward-looking, predictive strategy** to guide investment and operations.
@@ -76,8 +79,9 @@ Strategic Visualization: Developed **7 distinct strategic visualizations** using
 * **Factual Insight:** The analysis identified **Rajasthan, Uttar Pradesh, Maharashtra, Karnataka, and Bihar** as the Top 5 states for future investment, which together are predicted to account for a significant majority of future sales.
 * **Business Impact:** This provides a clear roadmap for where to concentrate capital expenditure on dealerships and marketing to achieve the highest possible return on investment.
 
-![Top 5 States by Predicted Sales](images/top_5_states_chart.png)
-*(Note: Replace with your "Top 5 States by Predicted EV Sales" chart)*
+![Top 5 States by Predicted Sales](imag<img width="991" height="497" alt="Screenshot 2025-09-15 102232" src="https://github.com/user-attachments/assets/82f9d17e-2dca-409c-bc8c-abd7940493f6" />
+es/top_5_states_chart.png)
+
 
 #### * 2nd **Achievement: Forecasted Product Mix Demand Across 11 Vehicle Segments**
 
@@ -85,16 +89,20 @@ Strategic Visualization: Developed **7 distinct strategic visualizations** using
 * **Factual Insight:** The model reveals significant demand variance. For example, while **Maharashtra** leads in personal two-wheeler sales, **Rajasthan** is the top state for shared three-wheelers (both low-speed and regular).
 * **Business Impact:** This enables a demand-driven production strategy, allowing the company to tailor inventory for each state and avoid costly stock imbalances.
 
-![Vehicle Type Breakdown for Top States](images/vehicle_type_breakdown_chart.png)
-*(Note: Replace with your "Top 5 States by Predicted EV Sales with Vehicle Type Breakdown" chart)*
+![Vehicle Type Breakdown for Top States](images/vehicl<img width="1478" height="754" alt="Screenshot 2025-09-15 095421" src="https://github.com/user-attachments/assets/b11daf5d-389e-4e51-807f-e51acae96313" />
+e_type_breakdown_chart.png)
+
 
 #### * 3rd **Achievement: Identified High-Growth Niche Markets**
 
 * **Methodology:** Conducted a deep-dive analysis into the top-performing vehicle categories to identify high-potential states for specific use cases, such as shared mobility and last-mile logistics.
 * **Factual Insight:** **Uttar Pradesh** is the definitive market leader for **3W\_Shared\_Lowspeed** vehicles (e-rickshaws), while also showing the highest demand for **3W\_Goods\_Lowspeed**. This highlights its central role in both shared mobility and urban logistics.
 * **Business Impact:** These insights allow for targeted, niche marketing and partnership strategies. For example, collaborating with logistics platforms in Uttar Pradesh could rapidly scale the adoption of goods vehicles.
+ <img width="991" height="497" alt="Screenshot 2025-09-15 102232" src="https://github.com/user-attachments/assets/ce996c99-d4d9-4a79-9c45-7325e0b99e83" />
+ <img width="1151" height="548" alt="Screenshot 2025-09-15 104356" src="https://github.com/user-attachments/assets/b17741f2-f8b7-4934-9626-22d80cbf5893" />
+
 #### * **Interactive Dashboarding (Power BI)** 
-An executive-level Power BI dashboard (draft.pbix) was created to provide a dynamic and interactive view of the market forecasts. This allows stakeholders to explore the data and derive insights visually.
+An executive-level Power BI dashboard (Sales_Projection(2025-2035).pbix) was created to provide a dynamic and interactive view of the market forecasts. This allows stakeholders to explore the data and derive insights visually.
 
 
 * **Key Visualizations:** The dashboard provides at-a-glance views of the top-performing vehicle segments, identifying 3W_Shared_Lowspeed as the overall market leader, followed closely by 2W_Personal vehicles.
@@ -105,7 +113,7 @@ An executive-level Power BI dashboard (draft.pbix) was created to provide a dyna
 **Risk & Opportunity Analysis:** The dashboard visualizes both high-growth corridors and lagging markets, identifying states like Mizoram, Meghalaya, and Manipur as low-priority for immediate scalable investment.
 
 #### * **Executive Reporting**
-A formal business report (Black Minimalist Indie Publishing Company Financial Report.docx) was compiled to present the findings and outline a clear strategic path forward.
+A formal business report (Buisness Report Regarding EV sales Across India in next 10 years.pdf) was compiled to present the findings and outline a clear strategic path forward.
 
 
 **Primary Strategic Guidance:** The report concludes that the company should focus its primary efforts on the 3W_Shared_Lowspeed and 2W_Personal segments to achieve the most rapid market scaling and impact.
@@ -149,16 +157,16 @@ To replicate this analysis, follow these steps:
     * First, run `cleaning_data.ipynb` to generate the clean dataset.
     * Then, run `Predictive_data_analysis_using_machine_level_models.ipynb` to perform the analysis.
 4.  **Explore the Deliverables:**
-    * Open `draft.pbix` in Power BI to interact with the dashboard.
-    * Read the `Black Minimalist Indie Publishing Company Financial Report.docx` for the full business case.
+    * Open `Sales_Projection(2025-2035).pbix` in Power BI to interact with the dashboard.
+    * Read the `Buisness Report Regarding EV sales Across India in next 10 years.pdf` for the full business case.
 
 ---
 
 ## 👤 Author
 
-* **[Your Name]**
-* **LinkedIn:** `[Your LinkedIn Profile URL]`
-* **Email:** `[Your Email Address]`
+* **[Swapnajit Mohapatra]**
+* **LinkedIn:** `www.linkedin.com/in/swapnajit-mohapatra-b2743331b`
+* **Email:** `swapdude1307@gmail.com`
 
 
 
